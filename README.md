@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Devendra from Mumbai,India<br><br>- 🔭 I’m working as Flutter App Dev(Freelancer)<br>- 📚 I'm currently learning To develop Native Movile Applications<br>- ⚡ In my free time I learn and code for Flutter Ui/ux<br>- ✉️ You can contact me at devbharambe2003@gmail.com<br>- 🤝 I'm open to collaborating on any Flutter related project<br>-⚡ 3 things that make me happy - debugged code, gym and Space</p>
+<p align="left">I'm Devendra from Mumbai,India<br><br>- 🔭 I’m working as Flutter App Dev(Freelancer)<br>- 📚 I'm currently learning To develop  cross-platform Mobile Applications<br>- ⚡ In my free time I learn and code for Flutter Ui/Ux<br>- ✉️ You can contact me at devbharambe2003@gmail.com<br>- 🤝 I'm open to collaborating on any Flutter related project<br>-⚡ 3 things that make me happy - Debugged Code, Workout and Space</p>
 
 ###
 
